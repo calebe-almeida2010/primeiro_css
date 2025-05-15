@@ -1,3 +1,22 @@
 .logotipo{
     height: 300px;
 }
+main{
+    background-color: burlywood;
+    height: 2000px;
+}
+header{
+    background-color: black;
+    height: 350px;
+}
+footer{
+    background-color: black;
+    height: 500px;
+    color: aliceblue;
+}
+.florida{
+    height: 400px;
+}
+.University{
+    height: 400px;
+}
